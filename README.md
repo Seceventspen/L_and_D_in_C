@@ -11,4 +11,4 @@ This repository was created to serve as an archive, along with documenting all o
 
 ## `🛑` Disclaimer
 
-Obviously, the stuff in this repository is explicitly for educational purposes. Not that you'll be able to run this in a patched environment without getting the absolute sh*t flagged out of it. Regardless, I do not condone the use of these programs for any malicious activities.
+Obviously, the content in this repository is **explicitly for educational purposes / my own self learning and development**. You'll find it hard to execute any of the code in a patched and mature environment without getting detected. Regardless, I do not consent to nor condone the use of these programs for any malicious activities. You have been warned!!
