@@ -49,6 +49,18 @@ To run this program, you'll need a C compiler installed on your system. You can 
 
 Visual Studio 20XX can do all the necessary compiling or alternative you can install a C compiler natively and use the Windows cli to do everything.
 
+### Visual Studio
+
+If you prefer using Visual Studio for your C programming, follow these steps to compile and run the program:
+
+1. Open Visual Studio: Launch Visual Studio and create a new project or open an existing one where you want to add the helloWorld.c file.
+2. Create a New C File: If you're starting a new project, create a new C source file (File > New > File). Otherwise, you can add the helloWorld.c file to your existing project.
+3. Copy Code: Copy the code provided in helloWorld.c and paste it into your new or existing C file in Visual Studio.
+4. Build Solution: Once the code is in place, build the solution (Build > Build Solution). This will compile the program and check for any errors.
+5. Run Program: After a successful build, you can run the program by selecting Start or pressing F5. The output will be displayed in the console window within Visual Studio.
+
+### Linux
+
 Alternative you can use Linux:
 
 1. Save the provided code in a file named `helloWorld.c`.
@@ -62,7 +74,7 @@ Alternative you can use Linux:
     
     `./helloWorld`
     
-After following these steps, you should see the message `"Hello, World 2024!"` displayed on your console.
+Regarless of which compliation method you choose, after following you're preferred steps, you should see the message `"Hello, World 2024!"` displayed on your console.
 
 ## Conclusion
 
