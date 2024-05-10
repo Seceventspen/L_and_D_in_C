@@ -10,7 +10,7 @@ Let's explore how this script works and how you can use it effectively.
 
 ## Overview
 
-This Python3 script `binary_to_shellcode.py` takes a binary file as input and converts its contents into shellcode format. Let's break down the key components and functionality below.
+This Python3 script `bin2shellcode.py` takes a binary file as input and converts its contents into shellcode format. Let's break down the key components and functionality below.
 
 ### Explanation
 
@@ -41,15 +41,15 @@ When you run this Python script with the path to a binary file as a command-line
 
 To use the Binary to Shellcode Converter, follow these steps:
 
-1. Save the provided Python script as `binary_to_shellcode.py`.
+1. Save the provided Python script as `bin2shellcode.py`.
     
 2. Open a terminal or command prompt.
     
-3. Navigate to the directory containing `binary_to_shellcode.py` and the binary file you want to convert.
+3. Navigate to the directory containing `bin2shellcode.py` and the binary file you want to convert.
     
 4. Run the script with the following command:
     
-    `python3 binary_to_shellcode.py <path_to_binary_file>`
+    `python3 bin2shellcode.py <path_to_binary_file>`
     
     _Note: Replace `<path_to_binary_file>` with the actual path to your binary file._
     
