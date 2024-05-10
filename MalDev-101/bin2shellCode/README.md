@@ -3,8 +3,8 @@
 Welcome to the Binary to Shellcode Converter! This Python script converts binary files into shellcode, making it easier to embed binary data into exploit payloads or other security-related tasks.
 
 - Original credit to: `https://gist.github.com/superkojiman/11164279`
-- I've converted the oroginal script to Python 3
-- tweaked to removed the `+` to enable pasting into my Process and thread injector C programs
+- I've converted the original script to Python 3
+- tweaked my version to remove the `+` char before the newline, on line 15 (`shellcode += "\" +\n\""`) of the original script, to enable easier pasting into my Process and Thread Injector C programs.
 
 Let's explore how this script works and how you can use it effectively.
 
